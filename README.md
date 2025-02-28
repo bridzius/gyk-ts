@@ -2,6 +2,11 @@
 
 Parašykite **nedidelę TypeScript programą**, kuri simuliuoja prekių valdymo sistemą.
 
+Nepamirškite:
+1. Naujas npm package.
+2. `npm install typescript`
+3. Kodą runniname su `npx tsx <failas>`
+
 1. Sukurkite `enum Kategorija`, kuri apibrėžtų tokias reikšmes kaip `Maistas`, `Elektronika`, `Drabužiai`.
 2. Sukurkite `interface Preke,` kuri turėtų `id`, `pavadinimas`, `kaina` ir `kategorija`.
 3. Parašykite `class ParduotuvesSistema`, kuri valdytų prekių sąrašą:

@@ -7,6 +7,7 @@ Nepamirškite:
 2. `npm install typescript`
 3. Kodą runniname su `npx tsx <failas>`
 
+Užduotis:
 1. Sukurkite `enum Kategorija`, kuri apibrėžtų tokias reikšmes kaip `Maistas`, `Elektronika`, `Drabužiai`.
 2. Sukurkite `interface Preke,` kuri turėtų `id`, `pavadinimas`, `kaina` ir `kategorija`.
 3. Parašykite `class ParduotuvesSistema`, kuri valdytų prekių sąrašą:
